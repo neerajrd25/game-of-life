@@ -2,6 +2,10 @@
 
 Conway's Game of Life is a React-based implementation of the famous cellular automaton devised by mathematician John Conway. This project visualizes the evolution of cells on a grid based on simple rules, providing an interactive and dynamic simulation experience.
 
+
+## Demo
+![10 Sec Demo](/src/assets/conway_demo.gif)
+
 ## Features
 
 - **Dynamic Grid:** Displays a grid of cells, where each cell can be alive (black) or dead (white).
