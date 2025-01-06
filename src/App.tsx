@@ -19,7 +19,7 @@ function App() {
   const genChnageInterval = 400;
   // const [count, setCount] = useState(0)
   const generationState = Array.from({ length: m }, () =>
-    Array.from({ length: n }, () => Math.random() < 0.5 ? 0 : 1)
+    Array.from({ length: n }, () => Math.random() < 0.95 ? 0 : 1)
   );
 
   // const generationState = [
